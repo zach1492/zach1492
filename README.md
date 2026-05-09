@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there! I'm Zach Brough
 
-<!--
-**zach1492/zach1492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I'm a software engineering student based in Waikato, NZ, who loves building things and learning how they work. When I'm not studying or working on projects, you'll find me playing football, reading, or writing code just for fun.
 
-Here are some ideas to get you started:
+## Languages and tools
+ - C, C#, C++
+ - Python
+ - Java
+ - Java Script
+ - Unity
+ - CAD
+ - Blender
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+Currently studying and building projects at the University of Waikato and also doing side projects in my own time.
+
+## Get in touch
+Connect with me on LinkedIn or drop me a message here on GitHub. Always happy to chat!
