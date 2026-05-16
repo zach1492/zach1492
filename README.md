@@ -1,7 +1,7 @@
 ## Hi there! I'm Zach Brough
 
 ## About me
-I'm a software engineering student based in Waikato, NZ, who loves building things and learning how they work. When I'm not studying or working on projects, you'll find me playing football, reading, or writing code just for fun.
+I'm a software engineering student based in Waikato, NZ, who loves learning how things work and building things. When I'm not studying or working on projects, you'll find me playing football, reading, or writing code just for fun.
 
 ## Languages and tools
  - C, C#, C++
