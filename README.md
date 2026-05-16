@@ -24,6 +24,12 @@ Connect with me on LinkedIn or drop me a message here on GitHub. Always happy to
 
 # Projects
 
+<img align="left" width="250" height="150" src="https://github.com/zach1492/Tetris---2024-school-project/blob/main/Images/4C87E601-9AA2-4E84-AC6D-F1443AAF979F_1_201_a.png?raw=true"> **[Stratergy Game](https://github.com/zach1492/Stratergy-Game)**
+
+For this project I created my own custom stratergy game in Unity in C#. It was part of passion project over the summer holidays. The objective of the project was to see if I could turn an idea I had into reality. You can play it [here](https://zach1889.itch.io/clash-of-cultures) or view the GitHub repository [here] (https://github.com/zach1492/Stratergy-Game).
+
+#
+
 <img align="left" width="250" height="150" src="https://github.com/zach1492/Tetris---2024-school-project/blob/main/Images/4C87E601-9AA2-4E84-AC6D-F1443AAF979F_1_201_a.png?raw=true"> **[Tetris](https://github.com/zach1492/Tetris---2024-school-project/tree/main)**
 
 In this project, I recreated Tetris using JavaScript in the BlueJ IDE as part of a school project. One of the main goals was to demonstrate the four key principles of object-oriented programming: polymorphism, inheritance, abstraction, and encapsulation. You can view the GitHub repository [here](https://github.com/zach1492/Tetris---2024-school-project/tree/main).
