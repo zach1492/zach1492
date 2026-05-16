@@ -24,7 +24,7 @@ Connect with me on LinkedIn or drop me a message here on GitHub. Always happy to
 
 # Projects
 
-<img align="left" width="250" height="150" src="https://github.com/zach1492/zach1492/blob/main/portfolio_images/data-storage.png"> **[Hash Table storage for Music Records](https://github.com/zach1492/Hash-Table)**
+<img align="left" width="250" height="150" src="https://github.com/zach1492/zach1492/blob/main/portfolio_images/hash-table.png"> **[Hash Table storage for Music Records](https://github.com/zach1492/Hash-Table)**
 
 The objectives for this project was creating a hash table for the fast look up of records and then testing with JUnit to maximise coverage of inputs. This project included dealing with hash table collisions and rehashing. 
 
