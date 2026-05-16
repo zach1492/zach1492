@@ -24,5 +24,5 @@ Connect with me on LinkedIn or drop me a message here on GitHub. Always happy to
 
 # Projects
 
-<img align="left" width="250" height="150" src="[https://github.com/zach1492/Tetris---2024-school-project/blob/1849e355bdc6d727a534b46cc52bdaba22bb20a4/Images/Image1?raw=true](https://github.com/zach1492/Tetris---2024-school-project/blob/main/Images/4C87E601-9AA2-4E84-AC6D-F1443AAF979F_1_201_a.png)"> **[Tetris](https://github.com/zach1492/Tetris---2024-school-project/tree/main)**
+<img align="left" width="250" height="150" src="https://github.com/zach1492/Tetris---2024-school-project/blob/main/Images/4C87E601-9AA2-4E84-AC6D-F1443AAF979F_1_201_a.png?raw=true"> **[Tetris](https://github.com/zach1492/Tetris---2024-school-project/tree/main)**
 In this project I recreated in tetris in Java Script for BlueJ, for a school project. One of the goals of the project was to incorporate all 4 areas of object oriented programming; Polymorphism, Inheritance, Abstraction and Encapsulation.
