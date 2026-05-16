@@ -17,3 +17,7 @@ Currently studying and building projects at the University of Waikato and also d
 
 ## Get in touch
 Connect with me on LinkedIn or drop me a message here on GitHub. Always happy to chat!
+
+## • Linked In: https://www.linkedin.com/in/zach-brough-04080070ad/
+
+## • Gmail: zachmbrough@gmail.com
