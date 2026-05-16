@@ -18,6 +18,12 @@ Currently studying and building projects at the University of Waikato and also d
 ## Get in touch
 Connect with me on LinkedIn or drop me a message here on GitHub. Always happy to chat!
 
-## • Linked In: https://www.linkedin.com/in/zach-brough-04080070ad/
+### • Linked In: https://www.linkedin.com/in/zach-brough-04080070ad/
 
-## • Gmail: zachmbrough@gmail.com
+### • Gmail: zachmbrough@gmail.com
+
+# Projects
+
+<img align="left" width="250" height="150" src="![image alt]("https://github.com/zach1492/Tetris---2024-school-project/blob/1849e355bdc6d727a534b46cc52bdaba22bb20a4/Images/Image1)
+"> **[Tetris](https://github.com/zach1492/Tetris---2024-school-project/tree/main)**
+In this project I recreated in tetris in Java Script for BlueJ, for a school project. One of the goals of the project was to incorporate all 4 areas of object oriented programming; Polymorphism, Inheritance, Abstraction and Encapsulation.
