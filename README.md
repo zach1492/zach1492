@@ -55,5 +55,7 @@ In this project, I recreated Tetris using JavaScript in the BlueJ IDE as part of
 #
 
 # Mini projects
+
  • [Game of Life](https://github.com/zach1492/GameOfLifeCode---2023-School-Project)
+ 
  • [Genetic Algorithm Word Finder](https://github.com/zach1492/Genetic-Fitness-algorithm)
