@@ -24,9 +24,9 @@ Connect with me on LinkedIn or drop me a message here on GitHub. Always happy to
 
 # Projects
 
-<img align="left" width="250" height="150" src="https://github.com/zach1492/zach1492/blob/main/portfolio_images/hash-table.png"> **[Hash Table storage for Music Records](https://github.com/zach1492/Hash-Table)**
+<img align="left" width="250" height="150" src="https://github.com/zach1492/zach1492/blob/main/portfolio_images/Network.png"> **[TCP Server and Client](https://github.com/zach1492/Templates_Networked-System)**
 
-The objectives for this project was creating a hash table for the fast look up of records and then testing with JUnit to maximise coverage of inputs. This project included dealing with hash table collisions and rehashing. 
+The objective of this project was building a server where the server and multiple clients can interact and share data safely. It required the reading and interpretation of structured data by both the server and client and then formulating a reply based on that
 
 #
 
@@ -36,9 +36,9 @@ For this project I created my own custom Strategy game in Unity in C#. It was pa
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/zach1492/zach1492/blob/main/portfolio_images/Network.png"> **[TCP Server and Client](https://github.com/zach1492/Templates_Networked-System)**
+<img align="left" width="250" height="150" src="https://github.com/zach1492/zach1492/blob/main/portfolio_images/hash-table.png"> **[Hash Table storage for Music Records](https://github.com/zach1492/Hash-Table)**
 
-The objective of this project was building a server where the server and multiple clients can interact and share data safely. It required the reading and interpretation of structured data by both the server and client and then formulating a reply based on that
+The objectives for this project was creating a hash table for the fast look up of records and then testing with JUnit to maximise coverage of inputs. This project included dealing with hash table collisions and rehashing. 
 
 #
 
@@ -51,3 +51,9 @@ The challenge for this project was creating and training an AI to optimise and m
 <img align="left" width="250" height="150" src="https://github.com/zach1492/Tetris---2024-school-project/blob/main/Images/4C87E601-9AA2-4E84-AC6D-F1443AAF979F_1_201_a.png?raw=true"> **[Tetris](https://github.com/zach1492/Tetris---2024-school-project/tree/main)**
 
 In this project, I recreated Tetris using JavaScript in the BlueJ IDE as part of a school project. One of the main goals was to demonstrate the four key principles of object-oriented programming: polymorphism, inheritance, abstraction, and encapsulation. You can view the GitHub repository [here](https://github.com/zach1492/Tetris---2024-school-project/tree/main).
+
+#
+
+# Mini projects
+ • [Game of Life](https://github.com/zach1492/GameOfLifeCode---2023-School-Project)
+ • [Genetic Algorithm Word Finder](https://github.com/zach1492/Genetic-Fitness-algorithm)
