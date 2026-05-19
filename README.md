@@ -11,6 +11,7 @@ I'm a software engineering student based in Waikato, NZ, who loves learning how 
  - Unity
  - CAD
  - Blender
+ - R
 
 ## What I'm working on
 Currently studying and building projects at the University of Waikato and also doing side projects in my own time.
@@ -26,7 +27,7 @@ Connect with me on LinkedIn or drop me a message here on GitHub. Always happy to
 
 <img align="left" width="250" height="150" src="https://github.com/zach1492/zach1492/blob/main/portfolio_images/Network.png"> **[TCP Server and Client](https://github.com/zach1492/Templates_Networked-System)**
 
-The objective of this project was building a server where the server and multiple clients can interact and share data safely. It required the reading and interpretation of structured data by both the server and client and then formulating a reply based on that
+The objective of this project was building a server where the server and multiple clients can interact and share data safely. It required the reading and interpretation of structured data by both the server and client and then formulating a reply based on that.
 
 #
 
@@ -65,3 +66,5 @@ For this university team project, I had to create a mod for the open source game
  • [Game of Life](https://github.com/zach1492/GameOfLifeCode---2023-School-Project)
  
  • [Genetic Algorithm Word Finder](https://github.com/zach1492/Genetic-Fitness-algorithm)
+
+ • [Mini R Project](https://github.com/zach1492/Mini-Data-Analysis-Project)
