@@ -69,3 +69,5 @@ For this university team project, I had to create a mod for the open source game
  • [Genetic Algorithm Word Finder](https://github.com/zach1492/Genetic-Fitness-algorithm)
 
  • [Mini R Project](https://github.com/zach1492/Mini-Data-Analysis-Project)
+
+ • [University AI Projects](https://github.com/zach1492/aima-python)
