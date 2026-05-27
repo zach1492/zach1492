@@ -12,6 +12,7 @@ I'm a software engineering student based in Waikato, NZ, who loves learning how 
  - CAD
  - Blender
  - R
+ - XML, JSON
 
 ## What I'm working on
 Currently studying and building projects at the University of Waikato and also doing side projects in my own time.
