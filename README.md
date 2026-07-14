@@ -18,7 +18,7 @@ I'm a software engineering student based in Waikato, NZ, who loves learning how 
 Currently studying and building projects at the University of Waikato and also doing side projects in my own time.
 
 ## Get in touch
-Connect with me on LinkedIn or drop me a message here on GitHub. Always happy to chat!
+Connect with me on LinkedIn or drop me a message though gmail. Always happy to chat!
 
 ### • LinkedIn: https://www.linkedin.com/in/zach-brough-04080070ad/
 
