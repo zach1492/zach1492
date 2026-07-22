@@ -58,7 +58,7 @@ In this project, I recreated Tetris using JavaScript in the BlueJ IDE as part of
 
 <img align="left" width="250" height="150" src="https://github.com/zach1492/zach1492/blob/main/portfolio_images/Waikato_2p4.png"> **[Māori extension mod for 0 A.D](https://github.com/callummatthew066-sketch/Te-0AD-SmokeAndMirrors)**
 
-For this university team project, I had to create a mod for the open source game 0 AD. This included creating a custom .XML map of the Waikato area, implementing a unique Māori civilization into the game with special units and abilities, talking to Māori stakeholders to avoid misrepresentation and designing Māori art for the new units and buildings we added to the game. You can download the mod [here](https://mod.io/g/0ad/m/maori-0ad#description).
+For this university team project, I had to create a mod for the open source game 0 AD. This included creating a custom .XML map of the Waikato area, implementing a unique Māori civilization into the game with special units and abilities, talking to Māori stakeholders to avoid misrepresentation and designing Māori art for the new units and buildings we added to the game. You can download the mod [here](https://www.moddb.com/mods/maori-0-ad).
 
 #
 
